@@ -13,7 +13,7 @@ int main() {
 	int n;
 	cout << "Enter number: ";
 	cin >> n;
-	while (N < 0 ) {
+	while (n < 0 ) {
 		cout << "Re enter: ";
 		cin >> n;
 	}
