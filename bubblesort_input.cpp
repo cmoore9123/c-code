@@ -35,7 +35,7 @@ int main() {
 
 	for (int z = 0; z < 10; z++)
 	{
-		cin >> array[z];
+		std::cin >> array[z];
 	}
 
 	for (int f = 0; f < 10; f++)
