@@ -27,7 +27,7 @@ void bubble_sort(int *array, int n) {
 
 int main() {
 
-	std::cout << "Enter 10 digit number : " std:endl;
+	std::cout << "Enter 10 digit number : " << std:endl;
 
 	int z, f;
 	int temp2 = 0;
