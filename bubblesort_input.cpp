@@ -40,9 +40,9 @@ int main() {
 
 	for (int f = 0; f < 10; f++)
 	{
-		if (array[f] > temp)
+		if (array[f] > temp2)
 		{
-			temp = array[f];
+			temp2 = array[f];
 		}
 	}
 
